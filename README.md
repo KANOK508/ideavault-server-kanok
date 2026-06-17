@@ -57,6 +57,28 @@ Your data is split cleanly into **4 primary collections**:
 4. **`bookmarks`** — Stores reference mapping pairs containing a user's email linked to an idea ID.
 
 ---
+those packages we use in this full project 
+{
+  "name": "ideavault-server",
+  "version": "1.0.0",
+  "description": "IdeaVault backend API server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
+
 
 ## 🛠️ Local Development Setup
 
