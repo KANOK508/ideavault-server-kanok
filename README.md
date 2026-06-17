@@ -1,10 +1,15 @@
 # IdeaVault Server
 
-> Express.js REST API with MongoDB for the IdeaVault startup idea sharing platform.  
+Hi ! this is my ideaVault but for everyone  to learn a new think and share your ideas and thoughts.. 
+
+The most --> highlighted features is 
+         You can add your ideas category wise 
+         See others ideas 
+         comment on others ideas 
+
+ > Implement with Express.js REST API with MongoDB    And  for signup , login use firebase authentication try a new things  ----also use axios for easy implementation 
 > Handles ideas, comments, users, bookmarks, and JWT authentication.
 
-**Live API:** https://your-server.vercel.app  
-**Client Repo:** https://github.com/your-username/ideavault-client
 
 ---
 

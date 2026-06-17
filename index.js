@@ -11,7 +11,7 @@ const port = process.env.PORT || 5000;
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://ideavault-client.vercel.app",
+    "https://ideavault-client-kanok.vercel.app",
     // Add your deployed frontend URL here
   ],
   credentials: true,
